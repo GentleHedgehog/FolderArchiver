@@ -1,0 +1,7 @@
+в планировщике создать задачу с параметрами
+create a task with parameters in the scheduler:
+program:  cmd
+args:  /c start "" "C:\gitblit\Run_backup_folder.bat"
+work folder:  C:\gitblit\
+
+set checkbox - run with highest rights
